@@ -14,6 +14,7 @@ The main menu greets users and shows a brief breakdown of the current student co
 Ability to access SQL student data base that is hosted on local/remote repository. Add new entries to the data set using the add functionality.
 
 ![](https://i.postimg.cc/wjzdtBN0/Screenshot-2024-03-05-114056.png)
+
 Manage existing data using the manage student menu, update or delete entries with the click of a few buttons.
 
 ![](https://i.postimg.cc/9fMXMM3s/Screenshot-2024-03-05-114123.png)
@@ -21,5 +22,6 @@ Manage existing data using the manage student menu, update or delete entries wit
 Add and mange courses with ease using similar controls as the student data sets!
 
 ![](https://i.postimg.cc/KvvHCgnX/Screenshot-2024-03-05-114136.png)
+
 Also supports a search function for bigger data sets and the ability to print data in PDF format.
 
