@@ -1,6 +1,7 @@
 <h1>A mockup school database set in the theme of Monsters University!!</h1>
 
 ![](https://i.postimg.cc/26rYPSk1/Screenshot-2024-03-05-113935.png)
+
 Login system linked with SQL data set only to allow specific users to log in.
 
 
