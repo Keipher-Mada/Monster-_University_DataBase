@@ -1,7 +1,7 @@
 <h1>A mockup school database set in the theme of Monsters University!!</h1>
 
-![Image Alt Text](https://ibb.co/9pR5mLj)
-Login system linked with SQL data set only to allow specific users to log in.
+![Login system linked with SQL data set only to allow specific users to log in.](https://ibb.co/9pR5mLj)
+
 
 ![Image Alt Text](https://ibb.co/jDg0ypf)
 The main menu greets users and shows a brief breakdown of the current student count.
